@@ -14,7 +14,6 @@ TrashClassifier adalah sebuah proyek klasifikasi sampah menggunakan model machin
 
 - Klasifikasi berbagai jenis sampah: baterai, biologis, gelas, kardus, kertas, metal, pakaian, plastik, sepatu.
 - Instruksi penanganan spesifik untuk setiap jenis sampah.
-- Dapat digunakan sebagai backend untuk aplikasi web dengan integrasi menggunakan Flask dan React.
 
 ## Prasyarat
 
